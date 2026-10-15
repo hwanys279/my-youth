@@ -1,0 +1,1 @@
+GitHub hwanys279/my-youth 저장소의 최상위에 index.html(기존 파일 교체)과 apply.html(새 파일 추가)을 업로드하세요. Vercel 자동 배포 후 /apply.html 확인. Apps Script는 consent=true를 받아야 하며 개인정보 보관기간/담당자 정보는 실제 접수 전에 추가하세요. no-cors 방식은 저장 성공 여부를 검증하지 못하므로 실제 테스트 응답을 시트에서 확인하세요.
